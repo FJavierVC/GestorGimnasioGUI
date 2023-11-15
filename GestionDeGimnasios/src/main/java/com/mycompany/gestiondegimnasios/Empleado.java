@@ -71,5 +71,7 @@ do {
         this.idEmpleado = idEmpleado;
         this.salario = salario;
         this.puesto = puesto;
+        //asddfg
+        
     }
 }
